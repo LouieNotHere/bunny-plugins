@@ -1,0 +1,14 @@
+{
+    "name": "Morse Translator",
+    "description": "Translate anything to morse code!",
+    "authors": [
+        {
+            "name": "LouieNotHere",
+            "id": "732131110255067198"
+        }
+    ],
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "ic_badge_staff"
+    }
+}
